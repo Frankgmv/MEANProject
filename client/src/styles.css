@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+html {
+  font-family: 'Raleway', sans-serif;
+}
+
+.title{
+  font-family: 'Potta One', cursive;
+}
+
+
+body {
+  background: #304352;
+  background: -webkit-linear-gradient(to right, #1b1002, #304352);
+  background: linear-gradient(to right, #1b1002, #304352);
+}
