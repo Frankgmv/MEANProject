@@ -15,7 +15,7 @@
 #### install all dependencies
 ```shh
     npm i
-
+```
 #### running application
 ```shh
     npm start
