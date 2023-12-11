@@ -1,22 +1,25 @@
 #MEAN project
 
-##Project to learn use the structure MEAN 
+##proyecto para aprender un poco del stack MEAN
 
-"client" - this folder contains the front-end application in Angular 
 
-### script to run angular 
+>[!Tip]
+>#### para instalar las dependencias de cada carpeta, habre un terminal por cada carpeta raíz y ejecuta el comando
+```shh
+    npm i
+```
+
+"client" - esta carpeta contiene el font-end hecho en Angular 
+
+### script para iniciar angular
 ```shh
     ng serve -o
 ```
 
-"server" - this folder contains the back-end to run the server and connect MongoDB
-### scripts to start nodejs
-
-#### install all dependencies
-```shh
-    npm i
-```
-#### running application
+"server" - esta carpeta contiene el back-end hecho en Nodejs y conectado a MongoDB
+### scripts para inicar Nodejs
 ```shh
     npm start
 ```
+
+ 
