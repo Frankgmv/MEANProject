@@ -1,6 +1,6 @@
-#MEAN project
+# MEAN project
 
-##proyecto para aprender un poco del stack MEAN
+## proyecto para aprender un poco del stack MEAN
 
 
 >[!Tip]
